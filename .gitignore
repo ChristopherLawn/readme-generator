@@ -1,5 +1,6 @@
 node_modules
 package-lock.json
 readme-guide.md
+notes.txt
 .vscode
 .DS_Store
