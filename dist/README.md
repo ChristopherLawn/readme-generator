@@ -1,8 +1,8 @@
 
-    # project
+    # PROJECT
 
     ## Description
-    description
+    DESCRIPTION
     
     ## Table of Contents
     * [Installation](#installation)
@@ -13,22 +13,22 @@
     * [Questions](#questions)
     
     ## Installation
-    installation
+    INSTALLATION
     
     ## Usage
-    usage
+    USAGE
 
     ## Contribution
-    contribution
+    CONTRIBUTION
 
     ## Tests
-    tests
+    TESTS
 
     ## License
-    license
+    LICENSE
 
     ## Questions
     Please contact me with any additional questions
-    [GitHub](https://github.com/janehub)
-    [Email]("mailto:c,h,r,i,s,@,y,a,h,o,o,.,c,o,m")
+    [GitHub](https://github.com/ChristopherLawn)
+    [Email]("mailto:christopher.lawn@yahoo.com")
     

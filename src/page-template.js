@@ -1,8 +1,9 @@
-
-    # project
+const generatePage = (title, description, installation, usage, contribution, tests, license, githubName, email) => {
+    return `
+    # ${title}
 
     ## Description
-    description
+    ${description}
     
     ## Table of Contents
     * [Installation](#installation)
@@ -13,22 +14,25 @@
     * [Questions](#questions)
     
     ## Installation
-    installation
+    ${installation}
     
     ## Usage
-    usage
+    ${usage}
 
     ## Contribution
-    contribution
+    ${contribution}
 
     ## Tests
-    tests
+    ${tests}
 
     ## License
-    license
+    ${license}
 
     ## Questions
     Please contact me with any additional questions
-    [GitHub](https://github.com/janehub)
-    [Email]("mailto:c,h,r,i,s,@,y,a,h,o,o,.,c,o,m")
-    
+    [GitHub](https://github.com/${githubName})
+    [Email]("mailto:${email}")
+    `;
+};
+
+module.exports = generatePage;
