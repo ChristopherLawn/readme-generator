@@ -126,6 +126,6 @@ promptUser().then(answers => {
 
     fs.writeFile('./dist/README.md', readmeFile, err => {
         if (err) throw err;
-        console.log('README complete! Checkout README.md to see the output!')
+        console.log('README questionnaire complete! Checkout your new README.md file in the "dist" folder!')
     });
 });

@@ -1,9 +1,9 @@
 
-![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)
-# **w**
+![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
+# **Test Project**
 
 ## **Description**
-w
+Test Description
 
 ## **Table of Contents**
 * [Installation](#installation)
@@ -14,22 +14,22 @@ w
 * [Questions](#questions)
 
 ## **Installation**
-w
+Test Install Instructions
 
 ## **Usage**
-w
+Test Usage Info
 
 ## **Contribution**
-w
+Test Contribution Instructions
 
 ## **Tests**
-w
+Test Testing Instructions
 
 ## **License**
-This project is covered under the [MIT License](https://choosealicense.com/licenses/mit/)
+The project is covered under the [Creative Commons License](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## **Questions**
 Please contact me directly with any additional questions:
-* [GitHub](https://github.com/w)
-* [Email](mailto:w)
+* [GitHub](https://github.com/ChristopherLawn)
+* [Email](mailto:christopher.lawn@yahoo.com)
     
