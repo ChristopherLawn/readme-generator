@@ -1,34 +1,35 @@
 
-    # PROJECT
+![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)
+# **w**
 
-    ## Description
-    DESCRIPTION
-    
-    ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Contribution](#contribution)
-    * [Tests](#tests)
-    * [License](#license)
-    * [Questions](#questions)
-    
-    ## Installation
-    INSTALLATION
-    
-    ## Usage
-    USAGE
+## **Description**
+w
 
-    ## Contribution
-    CONTRIBUTION
+## **Table of Contents**
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Tests](#tests)
+* [License](#license)
+* [Questions](#questions)
 
-    ## Tests
-    TESTS
+## **Installation**
+w
 
-    ## License
-    LICENSE
+## **Usage**
+w
 
-    ## Questions
-    Please contact me with any additional questions
-    [GitHub](https://github.com/ChristopherLawn)
-    [Email]("mailto:christopher.lawn@yahoo.com")
+## **Contribution**
+w
+
+## **Tests**
+w
+
+## **License**
+This project is covered under the [MIT License](https://choosealicense.com/licenses/mit/)
+
+## **Questions**
+Please contact me directly with any additional questions:
+* [GitHub](https://github.com/w)
+* [Email](mailto:w)
     
