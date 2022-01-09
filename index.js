@@ -48,7 +48,7 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'usage',
-            message: 'Please provide relevant usage information:',
+            message: 'Please provide all relevant usage information:',
             validate: usageInput => {
                 if (usageInput) {
                   return true;
@@ -61,12 +61,12 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'contribution',
-            message: 'Please provide instructions for contributing to this project:',
+            message: 'Please provide detailed guidelines for contributing to this project:',
             validate: contributionInput => {
                 if (contributionInput) {
                   return true;
                 } else {
-                  console.log('Please provide contribution instructions for this project');
+                  console.log('Please provide contribution guidelines for this project');
                   return false;
                 }
               }

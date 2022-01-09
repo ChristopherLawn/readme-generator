@@ -1,9 +1,9 @@
 
-![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
-# **Test Project**
+![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)
+# **Sample Project Title**
 
 ## **Description**
-Test Description
+Sample Project Description
 
 ## **Table of Contents**
 * [Installation](#installation)
@@ -14,19 +14,19 @@ Test Description
 * [Questions](#questions)
 
 ## **Installation**
-Test Install Instructions
+Sample Install Instructions
 
 ## **Usage**
-Test Usage Info
+Sample Usage Info
 
 ## **Contribution**
-Test Contribution Instructions
+Sample Contribution Guidelines
 
 ## **Tests**
-Test Testing Instructions
+Sample Testing Instructions
 
 ## **License**
-The project is covered under the [Creative Commons License](https://creativecommons.org/publicdomain/zero/1.0/)
+This project is distributed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
 ## **Questions**
 Please contact me directly with any additional questions:
