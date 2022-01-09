@@ -26,7 +26,7 @@ A JavaScript application that allows the user to quickly and easily generate a p
 4. When creating multiple README files for different projects, make sure to copy and save each file to a separate destination before running the app again.  Each time the app is run, the README file in the 'dist' folder will be replaced with the newest version.
 
 ## **Demo**
-[Demo Video Link](https://drive.google.com/file/d/1L8DPzr_YJuX3dxJEBfC-ului6Bs6o5PL/view?usp=sharing)
+[Demo Video Link](https://drive.google.com/file/d/1tlNsyJPGiYmZJczoGp0BHh43Xy6YH2SR/view?usp=sharing)
 
 ## **License**
 The project is distributed under the [Creative Commons License](https://creativecommons.org/publicdomain/zero/1.0/)
