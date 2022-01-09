@@ -7,8 +7,7 @@ A JavaScript application that allows the user to quickly and easily generate a p
 ## **Table of Contents**
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contribution](#contribution)
-* [Tests](#tests)
+* [Demo](#demo)
 * [License](#license)
 * [Questions](#questions)
 
